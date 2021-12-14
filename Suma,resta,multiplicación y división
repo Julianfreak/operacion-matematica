@@ -1,0 +1,20 @@
+#incluye<iostream>
+using namespace std;
+main()
+{
+  Int n1,n2,resultado;
+  cout<<"Ingrese dos número para realizar operaciones matemáticas";
+  cout<<"\nIngrese el primer número";
+  cin>>n1;
+  cout<<"\nIngrese el segundo número";
+  cin>>n2;
+     resultado=n1+n2;
+     cout<<\nLa suma de los números fue: "<<resultado;
+     resultado=n1-n2;
+     cout<<\nLa resta de los números fue: "<<resultado;
+     resultado=n1*n2;
+     cout<<\nLa multiplicación de los números fue: "<<resultado;
+     resultado=n1/n2;
+     cout<<\nLa división de los números fue: "<<resultado;
+}
+     
